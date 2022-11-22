@@ -1,0 +1,1 @@
+stress --cpu 80 --timeout 500
